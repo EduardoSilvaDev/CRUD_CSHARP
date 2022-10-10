@@ -1,0 +1,11 @@
+C:\Users\Eduardo\Desktop\01\crud\bin\Debug\netcoreapp3.1\crud.exe
+C:\Users\Eduardo\Desktop\01\crud\bin\Debug\netcoreapp3.1\crud.deps.json
+C:\Users\Eduardo\Desktop\01\crud\bin\Debug\netcoreapp3.1\crud.runtimeconfig.json
+C:\Users\Eduardo\Desktop\01\crud\bin\Debug\netcoreapp3.1\crud.runtimeconfig.dev.json
+C:\Users\Eduardo\Desktop\01\crud\bin\Debug\netcoreapp3.1\crud.dll
+C:\Users\Eduardo\Desktop\01\crud\bin\Debug\netcoreapp3.1\crud.pdb
+C:\Users\Eduardo\Desktop\01\crud\obj\Debug\netcoreapp3.1\crud.csprojAssemblyReference.cache
+C:\Users\Eduardo\Desktop\01\crud\obj\Debug\netcoreapp3.1\crud.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Desktop\01\crud\obj\Debug\netcoreapp3.1\crud.AssemblyInfo.cs
+C:\Users\Eduardo\Desktop\01\crud\obj\Debug\netcoreapp3.1\crud.dll
+C:\Users\Eduardo\Desktop\01\crud\obj\Debug\netcoreapp3.1\crud.pdb
