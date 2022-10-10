@@ -9,7 +9,7 @@ namespace crud
         static public bool rep = true;
         static void Main(string[] args)
         {
-            
+            // testando clone
             while (rep)
             {
                 Menu();
